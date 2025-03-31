@@ -37,8 +37,6 @@ yellow- rgb(228, 189, 34); */
 
 body {
     background-image: url('https://wren-nest.github.io/junked-treasure/images/background.webp');
-    background-repeat: no-repeat;
-    background-attachment: fixed;
     background-size: 100% 100%;
     color: rgb(244, 179, 80);
     font-family: OpenDyslexic;
