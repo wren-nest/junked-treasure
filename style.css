@@ -1,0 +1,54 @@
+/* colours */
+
+/* brown- rgb(149, 78, 25);
+light brown- rgb(244, 179, 80);
+green- rgb(25, 93, 53);
+light green- rgb(22, 185, 123);
+purple- rgb(59, 37, 94);
+light purple- rgb(169, 95, 176);
+yellow- rgb(228, 189, 34); */
+
+
+/* fonts */
+
+@font-face {
+    font-family: "chocoromance"; 
+    src: url("https://wren-nest.github.io/junked-treasure/fonts/chocoromance.otf") format("opentype");
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "OpenDyslexic"; 
+    src: url("https://wren-nest.github.io/junked-treasure/fonts/OpenDyslexic.otf") format("opentype");
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Overbrushing"; 
+    src: url("https://wren-nest.github.io/junked-treasure/fonts/Overbrushing.otf") format("opentype");
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "SomewhereSomehow"; 
+    src: url("https://wren-nest.github.io/junked-treasure/fonts/SomewhereSomehow.ttf") format("truetype");
+    font-weight: 100;
+    font-style: normal;
+}
+
+
+/* body */
+
+body {
+    background-color: rgb(149, 78, 25);
+    color: rgb(244, 179, 80);
+    font-family: chocoromance;
+    text-align:center;
+    font-size: 100%;
+    margin-left: 5%;
+    margin-right: 5%;
+    }
+  
