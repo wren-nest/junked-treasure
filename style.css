@@ -12,13 +12,6 @@ yellow- rgb(228, 189, 34); */
 /* fonts */
 
 @font-face {
-    font-family: "chocoromance"; 
-    src: url("https://wren-nest.github.io/junked-treasure/fonts/chocoromance.otf") format("opentype");
-    font-weight: 100;
-    font-style: normal;
-}
-
-@font-face {
     font-family: "OpenDyslexic"; 
     src: url("https://wren-nest.github.io/junked-treasure/fonts/OpenDyslexic.otf") format("opentype");
     font-weight: 100;
@@ -40,15 +33,21 @@ yellow- rgb(228, 189, 34); */
 }
 
 
-/* body */
+/* content */
 
 body {
     background-color: rgb(149, 78, 25);
     color: rgb(244, 179, 80);
-    font-family: chocoromance;
+    font-family: OpenDyslexic;
     text-align:center;
     font-size: 100%;
     margin-left: 5%;
     margin-right: 5%;
+    }
+
+h1 {
+    color: rgb(228, 189, 34);
+    font-family: SomewhereSomehow;
+    font-size:6em;
     }
   
