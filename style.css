@@ -98,8 +98,8 @@ img {
 .container {
     display: grid;
   grid-template-columns: auto auto;
-  gap: 2em;
-  padding: 1em;
+  gap: 5%;
+  padding: 5%;
   background-color: rgb(63, 63, 63);
 }
 
@@ -107,7 +107,7 @@ img {
     background-color: #f1f1f1;
     border: 1px solid black;
     padding: 10%;
-    font-size: 2em;
+    font-size: 10%;
     text-align: center;
 }
 
@@ -116,17 +116,17 @@ img {
 }
 
 .item4 {
-    grid-row: 1 / span 2;
+    grid-row: 2 / span 2;
 }
 
 .ceres {
     color: rgb(168, 107, 62);
     text-align: right;
-    padding: 1em;
+    padding: 5%;
 }
 
 .sync {
     color: rgb(134, 205, 211);
-    padding: 1em;
+    padding: 5%;
     text-align: left;
 }
