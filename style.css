@@ -36,13 +36,37 @@ body {
 h1 {
     color: rgb(228, 189, 34);
     font-family: SomewhereSomehow;
-    font-size:6em;
+    font-size:4em;
     }
 
 img {
     width: 100%;
     height: auto;
 }
+
+a:link {
+    color: rgb(169, 95, 176);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: rgb(147, 62, 155);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: rgb(244, 179, 80);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+      color: rgb(244, 179, 80);
+    background-color: transparent;
+    text-decoration: underline;
+  }
 
 /* Grid */
 
