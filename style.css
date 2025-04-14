@@ -124,14 +124,16 @@ a:link {
 
 /* Characters */
 
-.ceres {
-    color: rgb(168, 107, 62);
-    text-align: right;
-    padding: 1em;
-}
-
 .sync {
     color: rgb(134, 205, 211);
     padding: 1em;
+    font-family: Overbrushing;
     text-align: left;
+}
+
+.ceres {
+    color: rgb(168, 107, 62);
+    text-align: right;
+    font-family: SomewhereSomehow;
+    padding: 1em;
 }
