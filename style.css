@@ -36,10 +36,7 @@ yellow- rgb(228, 189, 34); */
 /* content */
 
 body {
-    background-image: url('https://wren-nest.github.io/junked-treasure/images/background.png');
-	background-repeat: repeat;
-	background-attachment: fixed;
-	background-size: 100% 100%;
+    background-color: rgb(63, 63, 63);
     color: rgb(244, 179, 80);
     font-family: OpenDyslexic;
     text-align:center;
@@ -95,7 +92,7 @@ h1 {
 
 .container {
     display: grid;
-  grid-template-columns: auto auto auto;
+  grid-template-columns: auto auto;
   gap: 2em;
   padding: 1em;
   background-color: rgb(63, 63, 63);
@@ -111,4 +108,14 @@ h1 {
 
 .item1 {
     grid-column: 1 / span 2;
+}
+
+.ceres {
+    color: rgb(168, 107, 62);
+    text-align: right;
+}
+
+.sync {
+    color: rgb(134, 205, 211);
+    text-align: left;
 }
