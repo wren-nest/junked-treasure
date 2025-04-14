@@ -51,6 +51,11 @@ h1 {
     font-size:6em;
     }
 
+img {
+    width: 100%;
+    height: auto;
+}
+
 .brown {
   background-color: rgb(149, 78, 25);
   color: rgb(244, 179, 80);
@@ -101,7 +106,7 @@ h1 {
 .container > div {
     background-color: #f1f1f1;
     border: 1px solid black;
-    padding: 1em;
+    padding: 10%;
     font-size: 2em;
     text-align: center;
 }
@@ -110,12 +115,18 @@ h1 {
     grid-column: 1 / span 2;
 }
 
+.item4 {
+    grid-row: 1 / span 2;
+}
+
 .ceres {
     color: rgb(168, 107, 62);
     text-align: right;
+    padding: 1em;
 }
 
 .sync {
     color: rgb(134, 205, 211);
+    padding: 1em;
     text-align: left;
 }
