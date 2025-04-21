@@ -24,6 +24,10 @@
 /* Content */
 
 body {
+    background-image: url('https://wren-nest.github.io/junked-treasure/images/background.webp');
+    background-repeat: repeat;
+    background-attachment: local;
+    background-size: 100% 100%;
     background-color: rgb(63, 63, 63);
     color: rgb(244, 179, 80);
     font-family: OpenDyslexic;
@@ -32,6 +36,20 @@ body {
     margin-left: 5%;
     margin-right: 5%;
     }
+
+.footer {
+  background-color: rgb(25, 93, 53);
+  color: rgb(22, 185, 123);
+  text-align: center;
+  margin-top: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 1em;
+  height: auto;
+  padding: 1em;
+  width: 100%;
+}
+
 
 h1 {
     color: rgb(228, 189, 34);
@@ -76,7 +94,7 @@ a:link {
   background-attachment: local;
   background-size: 100% 100%;
   background-color: rgb(149, 78, 25);
-  color: rgb(244, 179, 80);
+  color: rgb(255, 204, 21);
   text-align: center;
   margin-top: 1em;
   margin-left: 0;
@@ -124,14 +142,14 @@ a:link {
 /* Characters */
 
 .sync {
-    color: rgb(134, 205, 211);
+    color: rgb(113, 244, 233);
     padding: 1em;
     font-family: Overbrushing;
     text-align: left;
 }
 
 .ceres {
-    color: rgb(168, 107, 62);
+    color: rgb(205, 130, 81);
     text-align: right;
     font-family: SomewhereSomehow;
     padding: 1em;
