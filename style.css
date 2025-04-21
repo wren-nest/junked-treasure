@@ -71,6 +71,10 @@ a:link {
 /* Misc containers */
 
 .brown {
+  background-image: url('https://wren-nest.github.io/junked-treasure/images/brown.webp');
+  background-repeat: repeat;
+  background-attachment: local;
+  background-size: 100% 100%;
   background-color: rgb(149, 78, 25);
   color: rgb(244, 179, 80);
   text-align: center;
@@ -84,6 +88,10 @@ a:link {
 }
 
 .green {
+    background-image: url('https://wren-nest.github.io/junked-treasure/images/green.webp');
+    background-repeat: repeat;
+    background-attachment: local;
+    background-size: 100% 100%;
     background-color: rgb(25, 93, 53);
     color: rgb(22, 185, 123);
     text-align: center;
@@ -97,6 +105,10 @@ a:link {
   }
 
 .purple {
+  background-image: url('https://wren-nest.github.io/junked-treasure/images/purple.webp');
+	background-repeat: repeat;
+	background-attachment: local;
+	background-size: 100% 100%;
   background-color: rgb(59, 37, 94);
   color: rgb(169, 95, 176);
   text-align: center;
