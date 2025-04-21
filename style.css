@@ -113,8 +113,8 @@ a:link {
     color: rgb(22, 185, 123);
     text-align: center;
     margin-top: 5%;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 0;
+    margin-right: 0;
     margin-bottom: 5%;
     height: auto;
     padding: 5%;
@@ -130,8 +130,8 @@ a:link {
   color: rgb(169, 95, 176);
   text-align: center;
   margin-top: 5%;
-  margin-left: 5%;
-  margin-right: 5%;
+  margin-left: 0;
+  margin-right: 0;
   margin-bottom: 5%;
   height: auto;
   padding: 5%;
