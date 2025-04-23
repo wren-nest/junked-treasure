@@ -53,7 +53,7 @@ body {
 h1 {
     color: rgb(228, 189, 34);
     font-family: SomewhereSomehow;
-    font-size:8em;
+    font-size:5em;
     }
 
 img {
@@ -101,7 +101,7 @@ a:link {
   background-color: rgb(149, 78, 25);
   color: rgb(250, 183, 47);
   text-align: center;
-  font-size: 4em;
+  font-size: 2em;
   margin-top: 1em;
   margin-left: auto;
   margin-right: auto;
@@ -120,7 +120,7 @@ a:link {
     /* color: rgb(22, 185, 123); */
     color: rgb(250, 183, 47);
     text-align: center;
-    font-size: 4em;
+    font-size: 2em;
     margin-top: 1em;
     margin-left: auto;
     margin-right: auto;
@@ -139,7 +139,7 @@ a:link {
   /* color: rgb(169, 95, 176); */
   color: rgb(250, 183, 47);
   text-align: center;
-  font-size: 4em;
+  font-size: 2em;
   margin-top: 1em;
   margin-left: auto;
   margin-right: auto;
@@ -153,7 +153,7 @@ a:link {
 
 .sync {
     color: rgb(113, 244, 233);
-    font-size: 4em;
+    font-size: 2em;
     padding: 3em;
     font-family: Overbrushing;
     text-align: left;
@@ -161,7 +161,7 @@ a:link {
 
 .ceres {
     color: rgb(210, 115, 51);
-    font-size: 4em;
+    font-size: 2em;
     text-align: right;
     font-family: SomewhereSomehow;
     padding: 3em;
