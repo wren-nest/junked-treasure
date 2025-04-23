@@ -61,6 +61,12 @@ img {
     height: auto;
 }
 
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
 a:link {
     color: rgb(244, 179, 80);
     background-color: transparent;
@@ -118,7 +124,7 @@ a:link {
     margin-right: 0;
     margin-bottom: 1em;
     height: auto;
-    padding: 5%;
+    padding: 1em;
     width: 100%;
   }
 
@@ -136,7 +142,7 @@ a:link {
   margin-right: 0;
   margin-bottom: 1em;
   height: auto;
-  padding: 5%;
+  padding: 1em;
   width: 100%;
 }
 
