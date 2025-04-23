@@ -64,7 +64,7 @@ img {
 .clearfix::after {
   content: "";
   clear: both;
-  display: table;
+  display: flex;
 }
 
 a:link {
