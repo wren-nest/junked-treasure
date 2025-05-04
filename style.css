@@ -154,7 +154,7 @@ a:link {
 .sync {
     color: rgb(113, 244, 233);
     font-size: 1.3em;
-    padding: 3em;
+    padding: 1em;
     font-family: Overbrushing;
     text-align: left;
 }
@@ -164,5 +164,5 @@ a:link {
     font-size: 1.3em;
     text-align: right;
     font-family: SomewhereSomehow;
-    padding: 3em;
+    padding: 1em;
 }
